@@ -1,0 +1,80 @@
+[2019-12-31T20:02:42,062][INFO ][o.e.e.NodeEnvironment    ] [ADIFATKHUROZI] using [1] data paths, mounts [[OS (C:)]], net usable_space [133.4gb], net total_space [237.4gb], types [NTFS]
+[2019-12-31T20:02:42,065][INFO ][o.e.e.NodeEnvironment    ] [ADIFATKHUROZI] heap size [989.8mb], compressed ordinary object pointers [true]
+[2019-12-31T20:02:42,071][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] node name [ADIFATKHUROZI], node ID [PX_sO-0FQ_SA4PSHIXUgxw], cluster name [elasticsearch]
+[2019-12-31T20:02:42,073][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] version[7.5.1], pid[4896], build[default/zip/3ae9ac9a93c95bd0cdc054951cf95d88e1e18d96/2019-12-16T22:57:37.835892Z], OS[Windows 10/10.0/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_231/25.231-b11]
+[2019-12-31T20:02:42,074][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] JVM home [C:\Program Files\Java\jdk1.8.0_231\jre]
+[2019-12-31T20:02:42,075][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] JVM arguments [-Des.networkaddress.cache.ttl=60, -Des.networkaddress.cache.negative.ttl=10, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dio.netty.allocator.numDirectArenas=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.locale.providers=COMPAT, -Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -Djava.io.tmpdir=C:\Users\adyfa\AppData\Local\Temp\elasticsearch, -XX:+HeapDumpOnOutOfMemoryError, -XX:HeapDumpPath=data, -XX:ErrorFile=logs/hs_err_pid%p.log, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -XX:MaxDirectMemorySize=536870912, -Delasticsearch, -Des.path.home=C:\Users\adyfa\Downloads\elasticsearch-7.5.1-windows-x86_64\elasticsearch-7.5.1, -Des.path.conf=C:\Users\adyfa\Downloads\elasticsearch-7.5.1-windows-x86_64\elasticsearch-7.5.1\config, -Des.distribution.flavor=default, -Des.distribution.type=zip, -Des.bundled_jdk=true]
+[2019-12-31T20:02:44,618][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [aggs-matrix-stats]
+[2019-12-31T20:02:44,619][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [analysis-common]
+[2019-12-31T20:02:44,620][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [flattened]
+[2019-12-31T20:02:44,620][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [frozen-indices]
+[2019-12-31T20:02:44,621][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [ingest-common]
+[2019-12-31T20:02:44,621][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [ingest-geoip]
+[2019-12-31T20:02:44,622][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [ingest-user-agent]
+[2019-12-31T20:02:44,622][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [lang-expression]
+[2019-12-31T20:02:44,623][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [lang-mustache]
+[2019-12-31T20:02:44,623][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [lang-painless]
+[2019-12-31T20:02:44,624][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [mapper-extras]
+[2019-12-31T20:02:44,624][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [parent-join]
+[2019-12-31T20:02:44,625][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [percolator]
+[2019-12-31T20:02:44,626][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [rank-eval]
+[2019-12-31T20:02:44,635][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [reindex]
+[2019-12-31T20:02:44,636][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [repository-url]
+[2019-12-31T20:02:44,637][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [search-business-rules]
+[2019-12-31T20:02:44,638][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [spatial]
+[2019-12-31T20:02:44,639][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [transform]
+[2019-12-31T20:02:44,639][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [transport-netty4]
+[2019-12-31T20:02:44,640][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [vectors]
+[2019-12-31T20:02:44,640][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-analytics]
+[2019-12-31T20:02:44,641][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-ccr]
+[2019-12-31T20:02:44,641][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-core]
+[2019-12-31T20:02:44,652][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-deprecation]
+[2019-12-31T20:02:44,653][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-enrich]
+[2019-12-31T20:02:44,654][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-graph]
+[2019-12-31T20:02:44,655][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-ilm]
+[2019-12-31T20:02:44,656][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-logstash]
+[2019-12-31T20:02:44,656][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-ml]
+[2019-12-31T20:02:44,657][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-monitoring]
+[2019-12-31T20:02:44,667][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-rollup]
+[2019-12-31T20:02:44,668][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-security]
+[2019-12-31T20:02:44,669][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-sql]
+[2019-12-31T20:02:44,670][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-voting-only-node]
+[2019-12-31T20:02:44,670][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] loaded module [x-pack-watcher]
+[2019-12-31T20:02:44,671][INFO ][o.e.p.PluginsService     ] [ADIFATKHUROZI] no plugins loaded
+[2019-12-31T20:02:48,004][INFO ][o.e.x.s.a.s.FileRolesStore] [ADIFATKHUROZI] parsed [0] roles from file [C:\Users\adyfa\Downloads\elasticsearch-7.5.1-windows-x86_64\elasticsearch-7.5.1\config\roles.yml]
+[2019-12-31T20:02:48,595][INFO ][o.e.x.m.p.l.CppLogMessageHandler] [ADIFATKHUROZI] [controller/11532] [Main.cc@110] controller (64 bit): Version 7.5.1 (Build ae3c3c51b849be) Copyright (c) 2019 Elasticsearch BV
+[2019-12-31T20:02:49,082][DEBUG][o.e.a.ActionModule       ] [ADIFATKHUROZI] Using REST wrapper from plugin org.elasticsearch.xpack.security.Security
+[2019-12-31T20:02:49,220][INFO ][o.e.d.DiscoveryModule    ] [ADIFATKHUROZI] using discovery type [zen] and seed hosts providers [settings]
+[2019-12-31T20:02:50,023][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] initialized
+[2019-12-31T20:02:50,024][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] starting ...
+[2019-12-31T20:02:50,706][INFO ][o.e.t.TransportService   ] [ADIFATKHUROZI] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2019-12-31T20:02:50,836][WARN ][o.e.b.BootstrapChecks    ] [ADIFATKHUROZI] the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured
+[2019-12-31T20:02:50,855][INFO ][o.e.c.c.ClusterBootstrapService] [ADIFATKHUROZI] no discovery configuration found, will perform best-effort cluster bootstrapping after [3s] unless existing master is discovered
+[2019-12-31T20:02:53,870][INFO ][o.e.c.c.Coordinator      ] [ADIFATKHUROZI] setting initial configuration to VotingConfiguration{PX_sO-0FQ_SA4PSHIXUgxw}
+[2019-12-31T20:02:53,990][INFO ][o.e.c.s.MasterService    ] [ADIFATKHUROZI] elected-as-master ([1] nodes joined)[{ADIFATKHUROZI}{PX_sO-0FQ_SA4PSHIXUgxw}{qQFuBcDxS6GfBLsGmLs2RQ}{127.0.0.1}{127.0.0.1:9300}{dilm}{ml.machine_memory=8395399168, xpack.installed=true, ml.max_open_jobs=20} elect leader, _BECOME_MASTER_TASK_, _FINISH_ELECTION_], term: 1, version: 1, delta: master node changed {previous [], current [{ADIFATKHUROZI}{PX_sO-0FQ_SA4PSHIXUgxw}{qQFuBcDxS6GfBLsGmLs2RQ}{127.0.0.1}{127.0.0.1:9300}{dilm}{ml.machine_memory=8395399168, xpack.installed=true, ml.max_open_jobs=20}]}
+[2019-12-31T20:02:54,036][INFO ][o.e.c.c.CoordinationState] [ADIFATKHUROZI] cluster UUID set to [GPFlUijaTS-FIFPI6uhkXQ]
+[2019-12-31T20:02:54,069][INFO ][o.e.c.s.ClusterApplierService] [ADIFATKHUROZI] master node changed {previous [], current [{ADIFATKHUROZI}{PX_sO-0FQ_SA4PSHIXUgxw}{qQFuBcDxS6GfBLsGmLs2RQ}{127.0.0.1}{127.0.0.1:9300}{dilm}{ml.machine_memory=8395399168, xpack.installed=true, ml.max_open_jobs=20}]}, term: 1, version: 1, reason: Publication{term=1, version=1}
+[2019-12-31T20:02:54,200][INFO ][o.e.g.GatewayService     ] [ADIFATKHUROZI] recovered [0] indices into cluster_state
+[2019-12-31T20:02:54,377][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.triggered_watches] for index patterns [.triggered_watches*]
+[2019-12-31T20:02:54,431][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.watches] for index patterns [.watches*]
+[2019-12-31T20:02:54,506][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.watch-history-10] for index patterns [.watcher-history-10*]
+[2019-12-31T20:02:54,516][INFO ][o.e.h.AbstractHttpServerTransport] [ADIFATKHUROZI] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2019-12-31T20:02:54,529][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] started
+[2019-12-31T20:02:54,555][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.slm-history] for index patterns [.slm-history-1*]
+[2019-12-31T20:02:54,603][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.monitoring-logstash] for index patterns [.monitoring-logstash-7-*]
+[2019-12-31T20:02:54,672][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.monitoring-es] for index patterns [.monitoring-es-7-*]
+[2019-12-31T20:02:54,730][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.monitoring-beats] for index patterns [.monitoring-beats-7-*]
+[2019-12-31T20:02:54,778][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.monitoring-alerts-7] for index patterns [.monitoring-alerts-7]
+[2019-12-31T20:02:54,828][INFO ][o.e.c.m.MetaDataIndexTemplateService] [ADIFATKHUROZI] adding template [.monitoring-kibana] for index patterns [.monitoring-kibana-7-*]
+[2019-12-31T20:02:54,869][INFO ][o.e.a.s.m.TransportMasterNodeAction] [ADIFATKHUROZI] adding index lifecycle policy [watch-history-ilm-policy]
+[2019-12-31T20:02:54,919][INFO ][o.e.a.s.m.TransportMasterNodeAction] [ADIFATKHUROZI] adding index lifecycle policy [slm-history-ilm-policy]
+[2019-12-31T20:02:55,058][INFO ][o.e.l.LicenseService     ] [ADIFATKHUROZI] license [107bf435-094b-421d-a5b8-a76a0bdc1859] mode [basic] - valid
+[2019-12-31T20:02:55,059][INFO ][o.e.x.s.s.SecurityStatusChangeListener] [ADIFATKHUROZI] Active license is now [BASIC]; Security is disabled
+[2019-12-31T20:06:15,979][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] stopping ...
+[2019-12-31T20:06:15,997][INFO ][o.e.x.w.WatcherService   ] [ADIFATKHUROZI] stopping watch service, reason [shutdown initiated]
+[2019-12-31T20:06:16,000][INFO ][o.e.x.w.WatcherLifeCycleService] [ADIFATKHUROZI] watcher has stopped and shutdown
+[2019-12-31T20:06:16,091][INFO ][o.e.x.m.p.l.CppLogMessageHandler] [ADIFATKHUROZI] [controller/11532] [Main.cc@150] Ml controller exiting
+[2019-12-31T20:06:16,093][INFO ][o.e.x.m.p.NativeController] [ADIFATKHUROZI] Native controller process has stopped - no new native processes can be started
+[2019-12-31T20:06:16,111][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] stopped
+[2019-12-31T20:06:16,118][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] closing ...
+[2019-12-31T20:06:16,131][INFO ][o.e.n.Node               ] [ADIFATKHUROZI] closed

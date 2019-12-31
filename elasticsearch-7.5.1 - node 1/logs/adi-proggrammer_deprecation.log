@@ -1,0 +1,4 @@
+[2019-12-31T20:16:32,211][WARN ][o.e.d.b.Bootstrap        ] [node-1] future versions of Elasticsearch will require Java 11; your Java version from [C:\Program Files\Java\jdk1.8.0_231\jre] does not meet this requirement
+[2019-12-31T20:27:21,108][WARN ][o.e.d.b.Bootstrap        ] [node-1] future versions of Elasticsearch will require Java 11; your Java version from [C:\Program Files\Java\jdk1.8.0_231\jre] does not meet this requirement
+[2019-12-31T20:34:31,651][WARN ][o.e.d.b.Bootstrap        ] [node-1] future versions of Elasticsearch will require Java 11; your Java version from [C:\Program Files\Java\jdk1.8.0_231\jre] does not meet this requirement
+[2019-12-31T20:36:55,845][WARN ][o.e.d.b.Bootstrap        ] [node-1] future versions of Elasticsearch will require Java 11; your Java version from [C:\Program Files\Java\jdk1.8.0_231\jre] does not meet this requirement
